@@ -20,7 +20,7 @@ My name is Brandon Vue and I am a Junior Engineer. From the United States, livin
 
 - 💬 Ask me about: My past engineering internships (High-school and beyond!)
 
-- ⚡ Fun fact: I :two_hearts: learning new languages. Ever since middle school, I started studying Japanese and have also picked up Korean and Chinese!
+- ⚡ Fun fact: I :two_hearts: learning new languages. Ever since middle school, I started studying Japanese and have also picked up Korean and Chinese! (Also took about 3 - 4 years worth of French in High School)
 
 - 😄 Pronouns: He / Him / His
 
