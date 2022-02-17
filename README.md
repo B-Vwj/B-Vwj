@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 
-My name is Brandon Vue and I am a Junior Engineer. From the United States, living in Minnesota, and working at Target Corporate.
+My name is Brandon Vue.
 
 ### Communication
 
