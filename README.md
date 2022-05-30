@@ -1,17 +1,5 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- Introduction -->
-
-My name is Brandon Vue.
-
-### Communication
-
-📫 How to reach me:
-
-- LinkedIn: [![LinkedIn][1.2]][1]
-
-- Email: brandonvue1231@gmail.com
-
 ### About Me
 
 - 🔭 I’m currently working on my Portfolio site. 
@@ -26,7 +14,6 @@ My name is Brandon Vue.
 
 <!-- Links -->
 
-[1]: https://www.linkedin.com/in/young-professional-brandon-vue/
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Credit -->
