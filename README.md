@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on my Portfolio site. 
+- 🔭 My [Portfolio Website](https://b-vwj.github.io/VwjWorks/)!
 
 - 🌱 I’m currently learning Kotlin & Micronaut (_w/ Kafka support_)
 
